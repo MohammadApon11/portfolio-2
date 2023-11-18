@@ -199,7 +199,7 @@ const projects = [
   {
     name: "Learning Platform",
     description:
-      "Online-base Learning platform Like 10 Minutes School, E mpowering learners and educators with secure access,(Students, Admin, Instructors) Dashboard, Authentication and Authorization, Payment Integration, Course Management, Enrollment and Progress Tracking, Feedback and Reviews, Content Management, Search and Filtering Functionality, Security Management.",
+      "Online-base Learning platform Like 10 Minutes School, E mpowering learners and educators with secure access, (Students, Admin, Instructors) Dashboard, Authentication and Authorization, Payment Integration, Course Management, Enrollment and Progress Tracking, Feedback and Reviews, Content Management, Search and Filtering Functionality, Security Management.",
     tags: [
       {
         name: "react",
@@ -208,6 +208,10 @@ const projects = [
       {
         name: "mongodb",
         color: "text-green-400",
+      },
+      {
+        name: "restapi",
+        color: "text-sky-500",
       },
       {
         name: "node",
@@ -231,7 +235,7 @@ const projects = [
       },
     ],
     image: work1,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/MohammadApon11/sports_world_client_server",
   },
   {
     name: "Restaurant",
@@ -244,7 +248,7 @@ const projects = [
       },
       {
         name: "restapi",
-        color: "green-text-gradient",
+        color: "text-sky-500",
       },
       {
         name: "mongodb",
@@ -272,10 +276,10 @@ const projects = [
       },
     ],
     image: work2,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/MohammadApon11/restaurant-management_client_server",
   },
   {
-    name: "NFt Marketplace",
+    name: "NFT Marketplace",
     description:
       "NFT marketplaces utilize blockchain for creators to tokenize digital assets such as art, music, and collectibles. Users securely exhibit, exchange, and trade these unique items, fostering an ecosystem where digital assets gain value through cryptocurrency or traditional currency transactions. It has added smooth animations which can easily atract visitors. 100% Responsive & Mobile-friendly.",
     tags: [
@@ -297,7 +301,7 @@ const projects = [
       },
     ],
     image: work3,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/MohammadApon11/nFT-Marketplace",
   },
   {
     name: "Template",
@@ -310,14 +314,14 @@ const projects = [
       },
       {
         name: "css",
-        color: "pink-text-gradient",
+        color: "text-blue-600",
       },
     ],
     image: work4,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/MohammadApon11/template",
   },
   {
-    name: "Chef management",
+    name: "Chefs management",
     description:
       "A chef management website organizes chefs, skills, bookings for culinary events Authentication and Authorization, Content Management, Security Management.",
     tags: [
@@ -351,20 +355,24 @@ const projects = [
       },
     ],
     image: work5,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/MohammadApon11/chefs-management",
   },
   {
     name: "Toy Marketplace",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A Toy Marketplace, Authentication and Authorization, search and filtering, Content Management, Search and Filtering Functionality, Security Management.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
+        name: "mongodb",
+        color: "text-green-500",
+      },
+      {
         name: "restapi",
-        color: "green-text-gradient",
+        color: "text-sky-500",
       },
       {
         name: "node",
@@ -388,7 +396,7 @@ const projects = [
       },
     ],
     image: work6,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/MohammadApon11/toys-marketplace",
   },
 ];
 
